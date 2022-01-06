@@ -31,6 +31,22 @@ public class GradingStudents {
 
     public List<Integer> roundGrade(List<Integer> grades) {
         List<Integer> roundedGrades = new ArrayList<>();
+        grades.forEach( grade ->{
+            if(grade >= 38) {
+                if( grade % 5 == 3 ) {
+                    roundedGrades.add(grade += 2);
+                } else if(grade % 5 == 4) {
+                    roundedGrades.add(grade += 1);
+                }
+            } else {
+                roundedGrades.add(grade);
+            }
+        });
+        return roundedGrades;
+    }
+
+    public List<Integer> roundGrade2(List<Integer> grades) {
+        List<Integer> roundedGrades = new ArrayList<>();
         grades.forEach(grade -> {
             if(grade < 38) {
                 roundedGrades.add(grade);
