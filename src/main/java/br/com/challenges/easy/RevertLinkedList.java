@@ -1,4 +1,4 @@
-package br.com.challenges;
+package br.com.challenges.easy;
 
 import br.com.challenges.aux.ListNode;
 
