@@ -1,4 +1,4 @@
-package br.com.challenges.easy;
+package br.com.challenges.easy.arrays;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -11,7 +11,6 @@ import java.util.List;
  * @Date August, 10th 2021
  */
 public class ArrayLeftRotation {
-
 
     //this code do not respect time limite
     public static List<Integer> rotLeft(List<Integer> arr, int rotations) {

@@ -1,4 +1,7 @@
-package br.com.challenges.easy;
+package br.com.challenges.easy.arrays;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @hackerrank https://leetcode.com/problems/running-sum-of-1d-array/submissions/

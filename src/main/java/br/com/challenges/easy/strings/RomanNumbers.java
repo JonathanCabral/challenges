@@ -1,4 +1,4 @@
-package br.com.challenges.easy;
+package br.com.challenges.easy.strings;
 
 /**
  * @leetcode https://leetcode.com/problems/roman-to-integer/ (Roman numbers to int)

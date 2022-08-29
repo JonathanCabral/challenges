@@ -1,4 +1,4 @@
-package br.com.challenges.easy;
+package br.com.challenges.easy.strings;
 
 import java.util.HashMap;
 import java.util.Map;

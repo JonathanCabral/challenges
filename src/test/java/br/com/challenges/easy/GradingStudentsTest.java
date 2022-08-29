@@ -1,5 +1,6 @@
 package br.com.challenges.easy;
 
+import br.com.challenges.easy.lists.GradingStudents;
 import java.util.Arrays;
 import java.util.List;
 import org.junit.jupiter.api.BeforeEach;

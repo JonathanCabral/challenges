@@ -1,6 +1,7 @@
 package br.com.challenges.medium;
 
 import br.com.challenges.aux.ListNode;
+import br.com.challenges.medium.linkedlist.singly.LinkedListCycle;
 import org.junit.jupiter.api.Test;
 
 class LinkedListCycleTest {

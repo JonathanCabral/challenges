@@ -1,4 +1,4 @@
-package br.com.challenges.medium;
+package br.com.challenges.medium.arrays;
 
 import java.util.Collections;
 import java.util.HashMap;

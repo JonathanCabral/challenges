@@ -1,4 +1,4 @@
-package br.com.challenges.easy;
+package br.com.challenges.easy.lists;
 
 import java.util.ArrayList;
 import java.util.List;

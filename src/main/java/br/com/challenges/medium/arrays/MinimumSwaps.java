@@ -1,6 +1,4 @@
-package br.com.challenges.medium;
-
-import java.util.List;
+package br.com.challenges.medium.arrays;
 
 public class MinimumSwaps {
 

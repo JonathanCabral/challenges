@@ -1,5 +1,6 @@
 package br.com.challenges.easy;
 
+import br.com.challenges.easy.lists.CompareTriplets;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

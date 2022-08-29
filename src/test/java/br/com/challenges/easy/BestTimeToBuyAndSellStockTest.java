@@ -1,5 +1,6 @@
 package br.com.challenges.easy;
 
+import br.com.challenges.easy.arrays.BestTimeToBuyAndSellStock;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
